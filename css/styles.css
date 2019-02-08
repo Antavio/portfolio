@@ -13,6 +13,9 @@ h2 {
 #name {
   font-weight: bold;
 }
+#school{
+  color: #E74B10;
+}
 .projects {
   margin-left: 30px;
 }
