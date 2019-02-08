@@ -15,7 +15,7 @@
 ## License information
 MIT License
 
-Copyright (c) [2019] [Anthony Njuguna Kiarie]
+Copyright (c) 2019 Anthony Njuguna Kiarie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
